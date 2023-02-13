@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/youtubeclone/static/css/main.562117f2.css",
+    "main.js": "/youtubeclone/static/js/main.6a5b5c20.js",
+    "static/media/TNPubg.jpg": "/youtubeclone/static/media/TNPubg.bbfff1a337b653503822.jpg",
+    "static/media/TNCamreo.jpg": "/youtubeclone/static/media/TNCamreo.8b8030b8d73327d0be1c.jpg",
+    "static/media/TNGT650.jpg": "/youtubeclone/static/media/TNGT650.b9daf863c56fb26d5d30.jpg",
+    "static/media/TNJeep.jpg": "/youtubeclone/static/media/TNJeep.bef85fb94b779c75d8e8.jpg",
+    "static/media/TNHidden.jpg": "/youtubeclone/static/media/TNHidden.0a56e0ca7f5acc3c44f0.jpg",
+    "static/media/TNJaipur.jpg": "/youtubeclone/static/media/TNJaipur.4657638b53755e6dd4f1.jpg",
+    "static/media/TNKashi.jpg": "/youtubeclone/static/media/TNKashi.c5a51ba41f5cc2691d03.jpg",
+    "static/media/TNnatureBeauty.jpg": "/youtubeclone/static/media/TNnatureBeauty.4c2537616f82b181220e.jpg",
+    "static/media/TNgirl.jpg": "/youtubeclone/static/media/TNgirl.198495a9c83669dc1f18.jpg",
+    "static/media/TNMercedies.jpg": "/youtubeclone/static/media/TNMercedies.185087448609c96b3be6.jpg",
+    "static/media/TNCartoon.jpg": "/youtubeclone/static/media/TNCartoon.55241daec66af0ca3941.jpg",
+    "static/media/TNNasdaq.jpg": "/youtubeclone/static/media/TNNasdaq.0965f11979db63491c30.jpg",
+    "static/media/TNbook.jpg": "/youtubeclone/static/media/TNbook.bb1aeefccced6582f136.jpg",
+    "static/media/TNTrading.jpg": "/youtubeclone/static/media/TNTrading.0f61d826d7f3819a3562.jpg",
+    "static/media/TNBlockchain.jpg": "/youtubeclone/static/media/TNBlockchain.bd5e1623ff356852dca4.jpg",
+    "static/media/TNnolan.jpg": "/youtubeclone/static/media/TNnolan.626e7383a922ff19db2d.jpg",
+    "static/media/TNBitcoin.jpg": "/youtubeclone/static/media/TNBitcoin.3cb2a68385ef66703e8e.jpg",
+    "static/media/TNtedx.jpg": "/youtubeclone/static/media/TNtedx.04dddff1d4c94bd52d87.jpg",
+    "static/media/TNBasicofReact.jpg": "/youtubeclone/static/media/TNBasicofReact.7935f8b8b280d0154d82.jpg",
+    "static/media/Channelimg.jpg": "/youtubeclone/static/media/Channelimg.ff49f0ba9aa65cb809fd.jpg",
+    "static/media/TNiphone.jpg": "/youtubeclone/static/media/TNiphone.69aa7aed6daeb09eab0e.jpg",
+    "static/media/Youtube.png": "/youtubeclone/static/media/Youtube.088e906f553fec6629be.png",
+    "index.html": "/youtubeclone/index.html",
+    "main.562117f2.css.map": "/youtubeclone/static/css/main.562117f2.css.map",
+    "main.6a5b5c20.js.map": "/youtubeclone/static/js/main.6a5b5c20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.562117f2.css",
+    "static/js/main.6a5b5c20.js"
+  ]
+}
