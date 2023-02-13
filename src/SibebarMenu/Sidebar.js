@@ -1,5 +1,5 @@
 import React from "react";
-import "./Sidebar.css";
+import css from "./Sidebar.css";
 import Sidebarrow from "./Sidebarrow.js";
 import HomeIcon from "@mui/icons-material/Home";
 import WhatshotIcon from "@mui/icons-material/Whatshot";

@@ -1,5 +1,5 @@
 import React from "react";
-import "./Sidebarrow.css";
+import css from "./Sidebarrow.css";
 
 function Sidebarrow({ Icon, Title }) {
   return (

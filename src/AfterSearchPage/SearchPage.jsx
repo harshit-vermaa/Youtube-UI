@@ -1,5 +1,5 @@
 import React from "react";
-import "./SearchPage.css";
+import css from "./SearchPage.css";
 import ChannelRow from "./ChannelRow";
 import VideoRow from "./VideoRow";
 import TuneIcon from "@mui/icons-material/Tune";

@@ -1,5 +1,5 @@
 import React from "react";
-import "./Videocard.css";
+import css from "./Videocard.css";
 import Avatar from "@mui/material/Avatar";
 
 function Videocard({

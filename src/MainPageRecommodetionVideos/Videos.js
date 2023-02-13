@@ -1,5 +1,5 @@
 import React from "react";
-import "./Videos.css";
+import css from "./Videos.css";
 import Videocard from "./Videocard";
 import Img from "../Channelimg/Channelimg.jpg";
 import TNtedx from "../Thumbnails/TNtedx.jpg";
